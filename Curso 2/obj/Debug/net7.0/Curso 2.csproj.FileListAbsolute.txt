@@ -1,0 +1,15 @@
+D:\Documentos\Prog\POO_CSharp\Curso 2\bin\Debug\net7.0\Curso 2.exe
+D:\Documentos\Prog\POO_CSharp\Curso 2\bin\Debug\net7.0\Curso 2.deps.json
+D:\Documentos\Prog\POO_CSharp\Curso 2\bin\Debug\net7.0\Curso 2.runtimeconfig.json
+D:\Documentos\Prog\POO_CSharp\Curso 2\bin\Debug\net7.0\Curso 2.dll
+D:\Documentos\Prog\POO_CSharp\Curso 2\bin\Debug\net7.0\Curso 2.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.csproj.AssemblyReference.cache
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.AssemblyInfoInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.AssemblyInfo.cs
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.csproj.CoreCompileInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.dll
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\refint\Curso 2.dll
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\Curso 2.genruntimeconfig.cache
+D:\Documentos\Prog\POO_CSharp\Curso 2\obj\Debug\net7.0\ref\Curso 2.dll
