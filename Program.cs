@@ -1,14 +1,18 @@
-﻿//Screen Sound
-string mensagemDeBoasVindas = "Boas Vindas ao Screen Sound"; //aula 1
+﻿//Screen Sound - curso da Alura: "C#:Criando sua primeira aplicação"
+string mensagemDeBoasVindas = "\nBoas Vindas ao Screen Sound"; //aula 1
+List<String> listaDasBandas = new List<string>();
 
-void ExibirMensagemDeBoasVindas() //aula 2
+void ExibirLogo() //aula 2
 {
-    Console.WriteLine(@"🆂🅲🆁🅴🅴🅽 🆂🅾🆄🅽🅳");
+    Console.WriteLine(@"
+█▀ █▀▀ █▀█ █▀▀ █▀▀ █▄░█   █▀ █▀█ █░█ █▄░█ █▀▄
+▄█ █▄▄ █▀▄ ██▄ ██▄ █░▀█   ▄█ █▄█ █▄█ █░▀█ █▄▀"); //Exibição personalisada
     Console.WriteLine(mensagemDeBoasVindas);
 }
 
 void ExibirOpcoesMenu()
 {
+    ExibirLogo();
     Console.WriteLine("\nDigite 1 para registrar uma banda");
     Console.WriteLine("Digite 2 para mostrar todas as bandas");
     Console.WriteLine("Digite 3 para avaliar uma banda");
@@ -22,10 +26,10 @@ void ExibirOpcoesMenu()
     switch (opcaoEscolhidaNume)
     {
         case 1:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNume);
+            RegistrarBanda();
             break;
         case 2:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNume);
+            MostrarBandasRegistradas();
             break;
         case 3:
             Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNume);
@@ -42,6 +46,37 @@ void ExibirOpcoesMenu()
     }
 }
 
-ExibirMensagemDeBoasVindas();
+void RegistrarBanda() //aula 3
+{
+    Console.Clear();
+    Console.WriteLine("Registro de Bandas");
+    Console.Write(" \nDigite o nome da banda para registar: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    listaDasBandas.Add(nomeDaBanda);
+    Console.WriteLine($"A banda {nomeDaBanda} foi registrada");
+    Thread.Sleep(2000);
+    Console.Clear();
+    ExibirOpcoesMenu();
+
+}
+void MostrarBandasRegistradas()
+{
+    Console.Clear();
+    Console.WriteLine("Exibindo as bandas registradas\n");
+    // for (int i = 0; i < listaDasBandas.Count; i++)
+    // {
+    //     Console.WriteLine($"Banda:{listaDasBandas[i]}");
+    // }
+    foreach (string banda in listaDasBandas)
+    {
+        Console.WriteLine($"Banda:{banda}");
+    }
+
+    Console.WriteLine("\nDigite uma tecla para voltar ao menu");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesMenu();
+}
+
 ExibirOpcoesMenu();
 
