@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj": {}
+    "d:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj": {
+    "d:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj",
+        "projectUniqueName": "d:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj",
         "projectName": "Screen_sound",
-        "projectPath": "D:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj",
+        "projectPath": "d:\\Documentos\\Prog\\Screen_sound\\Screen_sound.csproj",
         "packagesPath": "C:\\Users\\joaoo\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Prog\\Screen_sound\\obj\\",
+        "outputPath": "d:\\Documentos\\Prog\\Screen_sound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
