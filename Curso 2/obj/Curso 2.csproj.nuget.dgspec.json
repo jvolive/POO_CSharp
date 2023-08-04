@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj": {}
+    "d:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj": {
+    "d:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj",
+        "projectUniqueName": "d:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj",
         "projectName": "Curso 2",
-        "projectPath": "D:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj",
+        "projectPath": "d:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\Curso 2.csproj",
         "packagesPath": "C:\\Users\\joaoo\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\obj\\",
+        "outputPath": "d:\\Documentos\\Prog\\POO_CSharp\\Curso 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
