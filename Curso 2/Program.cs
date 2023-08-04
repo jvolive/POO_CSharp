@@ -1,15 +1,24 @@
-﻿Album albumDoIron = new Album();
-albumDoIron.Nome = "Fear of the Dark";
+﻿Banda ironMaiden = new Banda("Iron Maiden");
 
-Musica musica1 = new Musica();
-musica1.Nome = "Childhood's End";
-musica1.Duracao = 280;
+Album albumDoIron = new Album("Fear of the Dark");
 
-Musica musica2 = new Musica();
-musica2.Nome = "Fear of the dark";
-musica2.Duracao = 438;
+Musica musica1 = new Musica(ironMaiden, "Childhood's End")
+{
+    Duracao = 280,
+    Disponivel = true,
+};
+
+Musica musica2 = new Musica(ironMaiden, "Fear of the dark")
+{
+    Duracao = 438,
+    Disponivel = false,
+};
 
 albumDoIron.AdicionarMusica(musica1);
 albumDoIron.AdicionarMusica(musica2);
+ironMaiden.AdicionarAlbum(albumDoIron);
 
+musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
 albumDoIron.ExibirMusicasDoAlbum();
+ironMaiden.ExibirDiscografia();
