@@ -1,4 +1,5 @@
-﻿class Musica
+﻿namespace ScreenSound.Models;
+class Musica
 {
     public Musica(Banda artista, string nome)
     {
@@ -20,7 +21,8 @@
         if (Disponivel)
         {
             Console.WriteLine("Disponível no plano.");
-        } else
+        }
+        else
         {
             Console.WriteLine("Adquira o plano Plus+");
         }
