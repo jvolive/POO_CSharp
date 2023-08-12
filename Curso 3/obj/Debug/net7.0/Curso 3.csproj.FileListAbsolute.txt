@@ -1,0 +1,15 @@
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Curso 3.exe
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Curso 3.deps.json
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Curso 3.runtimeconfig.json
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Curso 3.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Curso 3.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.csproj.AssemblyReference.cache
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.AssemblyInfoInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.AssemblyInfo.cs
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.csproj.CoreCompileInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\refint\Curso 3.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.genruntimeconfig.cache
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\ref\Curso 3.dll
