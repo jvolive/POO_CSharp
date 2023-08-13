@@ -21,6 +21,9 @@ public class Banda : IAvaliavel
 
         }
     }
+
+    public string? Resumo { get; set; }
+
     public List<Album> Albuns => albuns;
 
     public void AdicionarAlbum(Album album)

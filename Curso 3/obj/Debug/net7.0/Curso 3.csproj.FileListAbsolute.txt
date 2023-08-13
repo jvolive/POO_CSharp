@@ -13,3 +13,16 @@ D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\refint\Curso 3.dll
 D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.pdb
 D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.genruntimeconfig.cache
 D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\ref\Curso 3.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\bin\Debug\net7.0\OpenAI_API.dll
+D:\Documentos\Prog\POO_CSharp\Curso 3\obj\Debug\net7.0\Curso 3.csproj.CopyComplete
