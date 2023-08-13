@@ -1,7 +1,5 @@
-using Curso_3.model;
-
 namespace ScreenSound.Models;
-internal class Banda
+public class Banda
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();

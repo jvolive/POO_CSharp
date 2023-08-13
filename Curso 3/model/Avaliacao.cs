@@ -1,6 +1,6 @@
-namespace Curso_3.model;
+namespace ScreenSound.Models;
 
-internal class Avaliacao
+public class Avaliacao
 {
     public Avaliacao(int nota)
     {
