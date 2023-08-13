@@ -1,0 +1,15 @@
+D:\Documentos\Prog\POO_CSharp\Curso 4\bin\Debug\net7.0\Curso 4.exe
+D:\Documentos\Prog\POO_CSharp\Curso 4\bin\Debug\net7.0\Curso 4.deps.json
+D:\Documentos\Prog\POO_CSharp\Curso 4\bin\Debug\net7.0\Curso 4.runtimeconfig.json
+D:\Documentos\Prog\POO_CSharp\Curso 4\bin\Debug\net7.0\Curso 4.dll
+D:\Documentos\Prog\POO_CSharp\Curso 4\bin\Debug\net7.0\Curso 4.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.csproj.AssemblyReference.cache
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.AssemblyInfoInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.AssemblyInfo.cs
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.csproj.CoreCompileInputs.cache
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.dll
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\refint\Curso 4.dll
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.pdb
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\Curso 4.genruntimeconfig.cache
+D:\Documentos\Prog\POO_CSharp\Curso 4\obj\Debug\net7.0\ref\Curso 4.dll
