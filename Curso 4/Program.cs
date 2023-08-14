@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using Curso_4.Filter;
 using Curso_4.Model;
 
 using (HttpClient client = new HttpClient())
@@ -7,7 +8,10 @@ using (HttpClient client = new HttpClient())
     {
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
-        musicas[50].ExibirDetalhesDaMusica();
+        // LinqFilter.FiltrarTodosOsGEnerosMusicais(musicas);
+        // LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "rock");
+        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Red Hot Chili Peppers");
+        // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
     }
     catch (Exception ex)
     {
