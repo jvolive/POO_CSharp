@@ -23,7 +23,7 @@ Ao longo da formação, tive a oportunidade de trabalhar em projetos práticos q
 
 ## Certificado de Conclusão
 
-Ao concluir a formação, recebi um certificado da Alura, comprovando minha participação e o conhecimento adquirido na área de Programação Orientada a Objetos em C#.
+Ao concluir a formação, recebi um certificado da Alura, comprovando minha participação e o conhecimento adquirido na área de Programação Orientada a Objetos em C#. (https://cursos.alura.com.br/degree/certificate/68166e8b-81be-40bd-b44d-ea924cd3e3fe?lang=pt_BR)
 
 ## Demonstração de Habilidades
 
