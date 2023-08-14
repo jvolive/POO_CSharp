@@ -10,8 +10,18 @@ using (HttpClient client = new HttpClient())
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
         // LinqFilter.FiltrarTodosOsGEnerosMusicais(musicas);
         // LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "rock");
-        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Red Hot Chili Peppers");
+        // LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Red Hot Chili Peppers");
         // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+
+        var MusicasPreferidasDoJoao = new MusicasPreferidas("Joao");
+        MusicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[1]);
+        MusicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[4]);
+        MusicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[23]);
+        MusicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[13]);
+        MusicasPreferidasDoJoao.AdicionarMusicasFavoritas(musicas[456]);
+
+        MusicasPreferidasDoJoao.ExibirMusicasFavoritas();
+        MusicasPreferidasDoJoao.GerarArquivoJson();
     }
     catch (Exception ex)
     {
